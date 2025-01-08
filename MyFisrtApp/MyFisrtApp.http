@@ -1,0 +1,6 @@
+@MyFisrtApp_HostAddress = http://localhost:5017
+
+GET {{MyFisrtApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
